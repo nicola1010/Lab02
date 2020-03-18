@@ -35,7 +35,7 @@ public class FXMLController {
     	
     	this.txtResult.clear();
     	this.txtAlien.clear();
-    	this.txtResult.appendText("BENVENUTO NEL DIZIONARIO ALIENO NOCCIO");
+    	this.txtResult.appendText("BENVENUTO NEL DIZIONARIO ALIENO, NOCCIO");
 
     }
 
