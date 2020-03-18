@@ -43,7 +43,7 @@ public class FXMLController {
     void doTranslate(ActionEvent event) {
     	
     	String array[]=this.txtAlien.getText().toLowerCase().split(" ");
-    	boolean r=true;
+    	boolean r =true; 
     	
     	if(array.length==2)
     	{
